@@ -5,8 +5,7 @@ standard input/output. It is designed to be as efficient as possible by
 only issuing the minimum of system calls required.
 
 ## Features
-- Battery 0's remaining percentage
-- Battery 1's remaining percentage
+- Batteries' average remaining percentage (if any)
 - CPU usage percentage
-- Used RAM Memory's percentage
-- UTC Time
+- Used RAM memory percentage
+- UTC time
